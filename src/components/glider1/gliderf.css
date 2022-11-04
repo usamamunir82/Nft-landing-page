@@ -1,0 +1,127 @@
+
+
+.trendingNft{
+    padding-top: 300px;
+}
+.trendingNft h2{
+
+    text-align: center;
+    font-family: 'Clash Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 68px;
+    font-size: 72px;
+    background: linear-gradient(360deg, #69EACB 80%, #EACCF8 80%, #6654F1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.gliderContainer{
+    padding-top: 50px;
+}
+.gliderContent{
+    padding-top: 10px;
+    display: flex;
+    gap: 30px;
+    /* padding-left: 20px; */
+   
+}
+.gliderBottom{
+    padding-top: 20px;
+    display: flex;
+    gap: 75px;
+}
+.gliderIcon{
+    padding-left: 20px;
+}
+.b{
+    padding-left: 90px;
+}
+.gliderdata h4{
+    font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+color: #FFFFFF;
+}
+.gliderdata2 h4{
+    font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+color: #6A58F1;
+}
+.gliderdata p{
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+
+opacity: 0.7;
+}
+.gliderdata2 p{
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+
+opacity: 0.7;
+}
+.gliderBottom h5{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.gliderBottomBox p{
+    font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+color: #FFFFFF;
+}
+.curencyClr{
+    font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+color: #24FF00;
+}
+.curencyClr2{
+    font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+color: #FF0000;
+
+}
+.gliderButton button{
+    width: 370px;
+height: 60px;
+background: #2F80ED;
+border-radius: 60px;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+color: #FFFFFF;
+border: none;
+
+}
+.gliderButton{
+    padding: 20px;
+}
+.gliderbotButon {
+    padding-top: 40px;
+    text-align: center;
+}
+.gliderbotButon button{
+    border: 1px solid white;
+    border-radius: 100px;
+    align-items: center;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    background-color: #2E1667;
+    width: 200px;
+    height: 60px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}

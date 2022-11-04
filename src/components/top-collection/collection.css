@@ -1,0 +1,157 @@
+
+.toCollectionContainer{
+    padding: 250px;
+
+}
+.topCollection h2{
+    font-family: 'Clash Display';
+font-style: normal;
+font-weight: 600;
+font-size: 55px;
+line-height: 68px;
+background: linear-gradient(360deg, #69EACB 80%, #EACCF8 80%, #6654F1 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+padding-bottom: 100px;
+}
+.topCollection{
+    text-align: center;
+}
+.collectionContainer{
+   
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1500px;
+    gap: 30px;
+    justify-content: center;
+    padding: 60px 70px 0px 100px;
+    
+}
+.collectionButton{
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+}
+.colectbut1{
+    border: none;
+    font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+color: #FFFFFF;
+background: #2F80ED;
+border-radius: 60px;
+width: 147px;
+height: 70px;
+}
+.colectbut2{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    width: 200px;
+    height: 70px;
+    background: #2E1667;
+    border: 1px solid white;
+    border-radius: 100px;
+ 
+}
+.colectbut3{
+    font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+color: #FFFFFF;
+width: 150px;
+height: 70px;
+background: #2E1667;
+border: 1px solid white;
+border-radius: 100px;
+}
+.collectionBox{
+    padding: 10px;
+    box-sizing: border-box;
+    background: linear-gradient(155.14deg, rgba(0, 0, 0, 0) -2.13%, rgba(255, 255, 255, 0.15) 136.58%);
+    filter: drop-shadow(0px 4px 49px rgba(0, 7, 72, 0.12));
+backdrop-filter: blur(7.5px);
+border-radius: 20px;
+border: 1px solid #FFFFFF
+
+}
+.boxh5 h5{
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    color: #FFFFFF;
+padding-top: 10px;
+}
+.boxh5 p{
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+
+opacity: 0.7;
+}
+.collectionboxBottom{
+    display: flex;
+    gap: 90px;
+}
+.boxh6 h6{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.boxh6 p{
+    color: #FFFFFF;
+    font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+
+}
+.boxh7 h7{
+    font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+text-align: right;
+color: #FFFFFF;
+}
+.boxNoClr{
+    font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+text-align: right;
+
+
+color: #FF0000;
+}
+.boxNoClr2{
+    font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+text-align: right;
+
+color: #24FF00;
+}
+.collectButBotom {
+    padding-top: 40px;
+    text-align: center;
+}
+.collectButBotom button{
+    border: 1px solid white;
+    border-radius: 100px;
+    align-items: center;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    background-color: #2E1667;
+    width: 200px;
+    height: 60px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}

@@ -1,0 +1,57 @@
+
+
+
+.createContainer{
+    margin-top: 100px;
+    background: #1F234C;
+ 
+    /* background: linear-gradient(105.42deg, rgba(255, 255, 255, 0.11) -3.07%, rgba(255, 255, 255, 0.11) 49.04%, rgba(255, 255, 255, 0) 97.84%);
+    opacity: 0.4;
+    filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.25)); */
+    border-radius: 40px;
+    border: 1px solid #FFFFFF;
+}
+.createNftContainer{
+    padding: 60px;
+}
+.walletContainer{
+    text-align: center;
+    /* justify-content: center; */
+    gap: 70px;
+    display: flex;
+}
+.createNft h2{
+    font-family: 'Clash Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+text-transform: capitalize;
+
+/* gradient3 */
+
+background: linear-gradient(360deg, #69EACB 40%, #EACCF8 40%, #6654F1 80%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
+.walletBox{
+    padding-top: 100px;
+}
+.walletBox h2{
+    font-weight: 600;
+font-size: 28px;
+line-height: 42px;
+padding-top: 20px;
+color: #FFFFFF;
+}
+.walletBox p{
+    font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+padding-top: 20px;
+
+color: #FFFFFF;
+}

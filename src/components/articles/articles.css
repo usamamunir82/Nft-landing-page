@@ -1,0 +1,81 @@
+
+
+
+.articleTop{
+    padding-top: 200px;
+}
+.articlesContainer{
+    padding-top: 100px;
+    display: flex;
+    gap: 100px;
+    /* text-align: center; */
+    justify-content: center;
+    
+}
+.articlesBox{
+    /* box-sizing: border-box; */
+    background: linear-gradient(155.14deg, rgba(255, 255, 255, 0) -2.13%, rgba(255, 255, 255, 0.15) 136.58%);
+    filter: drop-shadow(0px 4px 49px rgba(0, 7, 72, 0.12));
+backdrop-filter: blur(12.5px);
+/* Note: backdrop-filter has minimal browser support */
+/* border: 1px solid white; */
+border-radius: 20px;
+}
+.lowered{
+    padding: 20px 0px 0px 30px;
+}
+.lowered h2{
+    max-width: 378px;
+    font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+align-items: center;
+
+color: #FFFFFF;
+}
+.lowered p{
+    padding-top: 30px;
+    font-weight: 500;
+font-size: 13px;
+line-height: 20px;
+color: #FFFFFF;
+
+opacity: 0.7;
+
+}
+.article{
+    
+    
+    font-family: 'Clash Display';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 59px;
+/* identical to box height */
+
+text-align: center;
+
+background: linear-gradient(360deg, #69EACB 40%, #EACCF8 40%, #6654F1 80%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+
+
+}
+.articlesButBotom{
+    padding-top: 40px;
+    text-align: center
+
+}
+.articlesButBotom button{
+    border: 1px solid white;
+    border-radius: 100px;
+    align-items: center;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    background-color: #141942;
+    width: 200px;
+    height: 60px;
+}

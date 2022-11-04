@@ -1,0 +1,57 @@
+
+
+
+.gliderCategory{
+ 
+}
+.subBoxGlider{
+    display: flex;
+    
+    gap: 20px;
+    
+    
+}
+.boxglider2{
+   
+/* padding-right: 30px; */
+    /* padding: 30px; */
+    background: linear-gradient(155.14deg, rgba(255, 255, 255, 0) -2.13%, rgba(255, 255, 255, 0.15) 136.58%);
+filter: drop-shadow(0px 3.99902px 48.988px rgba(0, 7, 72, 0.12));
+backdrop-filter: blur(7.49816px);
+border-radius: 19.9951px;
+}
+.subBoxGlider{
+   justify-content: center;
+
+    /* padding: 20px; */
+}
+.glidersubimg{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  
+}
+.gliderP{
+    padding: 20px;
+    font-weight: 600;
+font-size: 21.9509px;
+line-height: 33px;
+color: #FFFFFF;
+text-align: center;
+}
+.glider2But{
+    padding-top: 60px;
+    text-align: center;
+}
+.glider2But button{
+    border: 1px solid white;
+    border-radius: 100px;
+    align-items: center;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    background-color: #28215F;
+    width: 200px;
+    height: 60px;
+}

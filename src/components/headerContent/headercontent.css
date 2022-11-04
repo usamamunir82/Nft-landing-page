@@ -1,0 +1,89 @@
+
+
+.headerContent{
+    display: flex;
+    padding: 100px;
+    gap: 40px;
+}
+.headerData{
+    padding-left: 50px;
+}
+.headerDataImg{
+padding-right: 50px;
+margin-top: -70px;
+}
+.headerDataImg img{
+width: 100%;
+}
+.headerData h3{
+    max-width: 780px;
+    font-family: 'Clash Display';
+font-style: normal;
+font-weight: 500;
+font-size: 87px;
+line-height: 78px;
+color: #FFFFFF;
+letter-spacing: 0.025em;
+text-transform: capitalize;
+}
+.headerData p{
+    padding-top: 30px;
+    font-weight: 400;
+    max-width: 590px;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    
+}
+.headerDataButon{
+    padding-top: 40px;
+    display: flex;
+    gap: 30px;
+}
+.headerbut1 button{
+    font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+    border: none;
+    width: 200px;
+    height: 50px;
+    background: #2F80ED;
+border-radius: 60px;
+color: #FFFFFF;
+}
+.headerbut2 button{
+    background: hsl(244, 53%, 20%);
+    color: #FFFFFF;
+    width: 200px;
+    height: 50px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    border: 1px solid #FFFFFF;
+border-radius: 60px;
+}
+.contentCollection{
+    padding-top: 40px;
+    display: flex;
+    gap: 50px;
+}
+.rating{
+    font-family: 'Clash Display';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+
+color: #FFFFFF;
+
+}
+.ratingName{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+}

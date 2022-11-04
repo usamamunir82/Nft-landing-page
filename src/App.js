@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./components/header/Header";
+import HeaderContent from "./components/headerContent/HeaderContent";
+import MetaMask from "./components/metamask/MetaMask";
+import GliderF from "./components/glider1/GliderF";
+import Collection from "./components/top-collection/Collection";
+import Categories from "./components/categories/Categories";
+import Create from "./components/create-and-self/Create";
+import Articles from "./components/articles/Articles";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <Header/>
+    <HeaderContent/>
+    <MetaMask/>
+    <GliderF/>
+    <Collection/>
+    <Categories/>
+    <Create/>
+    <Articles/>
+    <Footer/>
     </div>
   );
 }

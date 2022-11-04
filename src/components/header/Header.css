@@ -1,0 +1,39 @@
+.headerContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    align-items: center;
+   
+    
+    
+    
+    }
+    .headerLogo{
+        padding-left: 100px;
+    }
+    
+    .headerUl{
+        align-items: center;
+        padding-right: 70px;
+        display: flex;
+        gap: 54px;
+        list-style: none;
+    }
+    .headerUl li{
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 26px;
+        color: #FFFFFF;
+    }
+    .headerButon button{
+      
+        border: none;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 30px;
+    color: #FFFFFF;
+        width: 200px;
+    height: 60px;
+    background: #2F80ED;
+    border-radius: 100px;
+    }
